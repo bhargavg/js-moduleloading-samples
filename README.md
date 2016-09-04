@@ -2,10 +2,7 @@
 
 ## Module Systems:
 - [x] ES6 Modules (_Using babel to transpile the ES6 code to ES5_)
-- [ ] AMD (_pending_)
-- [ ] CommonJS (_pending_)
-
-
+- [x] NodeJs module system
 
 ## Running
 ```bash
