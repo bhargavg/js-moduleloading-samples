@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "imports": "babel-node es16_module_imports/main"
+    "es16": "babel-node es16/main",
+    "node": "node nodejs/main.js"
+  },
+  "engines": {
+    "node": "^6.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.14.0",
