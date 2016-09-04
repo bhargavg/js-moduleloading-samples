@@ -1,0 +1,12 @@
+{
+  "name": "js-modules-samples",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "imports": "babel-node es16_module_imports/main"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0"
+  }
+}
